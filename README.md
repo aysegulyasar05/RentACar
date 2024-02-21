@@ -38,4 +38,8 @@ This project is a web application for renting cars. Users can browse and search 
 
 
 
+https://github.com/aysegulyasar05/RentACar/assets/65957331/b0fff630-f533-490a-80a7-542917a4f373
+
+
+
 
